@@ -49,16 +49,16 @@ The expected red highlight for failed rows is also missing. This makes it diffic
 ---
 
 - **Sheet Screenshot:**  
-  ![Sheet Screenshot](Bug%201/sheet.png)
+  ![Sheet Screenshot](Bug%20Reporting%20Images/sheet.png)
 
 - **Logs Screenshot:**  
-  ![Logs Screenshot](Bug%201/logs.png)
+  ![Logs Screenshot](Bug%20Reporting%20Images/logs.png)
 
 - **Field Criteria Not Added in Instance:**  
-  ![Field Criteria Error](Bug%201/criteria_not_added.png)
+  ![Field Criteria Error](Bug%20Reporting%20Images/criteria_not_added.png)
 
 - **Expected Error Message in Logs:**  
-  ![Expected Error in Logs](Bug%201/expected_error.png)
+  ![Expected Error in Logs](Bug%20Reporting%20Images/expected_error.png)Bug%20Reporting%20Images
 
 > **Error In Text:**  
 > `Cannot create the field criteria GOFieldCriteria{sourceFieldName='Position', destinationFieldValue='cust_tester8', defaultDestinationValue='cust_tester8'} for field cust_Arsalan1 in object definition cust_Arsalan_khan_Rechecking.`
