@@ -36,7 +36,7 @@ Red highlight appears in the **"text"** column of the *Message Definition* sheet
 ## 📎 Attachments
 
 - **Validation Issue in Sheet:**  
-  ![Message Definition - Text Column Highlight in Red](bug%201/bug 2 i 2.png)
+  ![Message Definition - Text Column Highlight in Red](Bug%201/bug 2 i 2.png)
 
 - **Instance Confirmation Screenshot:**  
-  ![Data Successfully Added to SAP](bug%201/bug 2 i 1.png)
+  ![Data Successfully Added to SAP](Bug%201/bug-2 i 1.png)
