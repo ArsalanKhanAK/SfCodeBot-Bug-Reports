@@ -1,8 +1,16 @@
-# 🐞 Bug Report
+# Bug Report
 
-**Module Name:** EC  
+**Module Name:** Employee Central  
 **Screen Name:** Message Definition  
-**Issue Summary:**  
+
+---
+
+## Title
+**False Red Validation in "Text" Column Despite Successful Data Addition**
+
+---
+
+## Description
 Red highlight appears in the **"text"** column of the *Message Definition* sheet, even though the data is successfully added to the instance.
 
 ---
