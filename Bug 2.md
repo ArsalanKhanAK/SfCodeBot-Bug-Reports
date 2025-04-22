@@ -37,7 +37,7 @@ Red highlight appears in the **"text"** column of the *Message Definition* sheet
 
 ## Severity & Priority
 - **Severity:** Medium  
-- **Priority:** High  
+- **Priority:** Medium  
 
 ---
 
