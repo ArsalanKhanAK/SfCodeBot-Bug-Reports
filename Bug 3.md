@@ -1,7 +1,7 @@
 # 🐞 Bug Report: Successful Background Element Creation, but CodeBot Shows Error and No Validation Color
 
 **Module:** Employee Profile  
-**Sheet:** Background Elements  
+**Screen Name:** Background Elements  
 **Tracking Request ID:** 7f037a4f73-4232284  
 **Group ID:** 7f037a4f73-G6042943  
 
@@ -49,7 +49,9 @@ This inconsistency creates confusion regarding the actual result of the configur
 
 ## Severity & Environment
 
-- **Severity:** Medium (due to misleading or inconsistent feedback)  
+- **Severity:** Medium  
+- **Priority:** Medium  
+
 
 - **Environment:**  
   - **Stage:** Testing Environment  

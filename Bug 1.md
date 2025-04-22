@@ -43,8 +43,13 @@ The expected red highlight for failed rows is also missing. This makes it diffic
 
 ---
 
-## Severity
-**High**
+## Severity & Priority
+- **Severity:** Medium  
+- **Priority:** Medium  
+---
+
+- **Environment:**  
+  - **Stage:** Testing Environment  
 
 ---
 
